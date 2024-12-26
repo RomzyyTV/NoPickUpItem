@@ -5,7 +5,6 @@ using Exiled.API.Features;
 using Exiled.API.Features.Pickups;
 using Exiled.Events.EventArgs.Player;
 using Exiled.Permissions;
-using MEC;
 using PlayerRoles;
 using PluginAPI.Core.Attributes;
 
